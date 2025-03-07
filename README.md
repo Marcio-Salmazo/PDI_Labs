@@ -40,6 +40,10 @@ na manipulação e análise de imagens digitais.
 * Lab04 - Low pass filtering
 * Lab05 - High pass filtering
 * Lab06 - Thresholding
+
+**As demais práticas foram feitas em grupo, portanto não foram adicionadas ao meu repositório,**
+**contudo podem os enunciados podem ser encontrados em https://github.com/btravencolo/pgc111-labs-2023-02**
+
 * Lab07 - Mathematical Morphology
 * Lab08 - Watershed
 * Lab09 - Color
