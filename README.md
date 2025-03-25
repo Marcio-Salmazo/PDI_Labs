@@ -8,15 +8,25 @@ bibliotecas como OpenCV, NumPy e Matplotlib. Os códigos exploram conceitos fund
 na manipulação e análise de imagens digitais.
 
 #### Tópicos Abordados
-✅ Fundamentos de Imagens Digitais \n
+
+✅ Fundamentos de Imagens Digitais
+
 ✅ Leitura, Escrita e Manipulação de Imagens
+
 ✅ Espaços de Cores (RGB, Grayscale, HSV, etc.)
+
 ✅ Transformações Geométricas (Escala, Rotação, Translação)
+
 ✅ Filtros Espaciais e Suavização (Blur, Gaussian, Median, etc.)
+
 ✅ Detecção de Bordas (Sobel, Canny, Laplaciano)
+
 ✅ Segmentação de Imagens (Limiarização, Watershed, K-Means)
+
 ✅ Transformada de Fourier para Processamento de Imagens
+
 ✅ Morfologia Matemática (Erosão, Dilatação, Abertura e Fechamento)
+
 ✅ Detecção de Objetos e Contornos
 
 #### Tecnologias Utilizadas
